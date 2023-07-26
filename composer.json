@@ -1,0 +1,12 @@
+{
+    "name": "crystal-rock/apnic-ip",
+    "description": "crystal-rock/apnic-ip",
+    "homepage": "https://github.com/crystal-rock/apnic-ip",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "CrystalRock\\ApnicIp\\": "src/parse"
+        }
+    },
+    "require": {}
+}

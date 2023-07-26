@@ -1,0 +1,34 @@
+北京###-BJ|MANT-CN-SINNET|beijing|bei jing|
+天津###-TJ|tianjin|tian jin
+上海###MAINT-CHINANET-SH|MAINT-CNCGROUP-SH|MAINT-CN-DSNET-HUWEI|MAINT-CN-HY28|shanghai|shang hai
+重庆###MAINT-CHINANET-CQ|MAINT-CNCGROUP-CQ|MAINT-CN-CQMC-WANZHOU|chongqing|chong qing
+河北###MAINT-CHINANET-HE|MAINT-CNCGROUP-HE|hebei|he bei
+山西###MAINT-CNCGROUP-SX|MAINT-CHINANET-SX|MAINT-CN-SIC|shan1xi
+内蒙古###-NM|MAINT-CHINATELECOM-NM|MAINT-CNCGROUP-NM|neimenggu|nei meng gu|neimeng|nei meng|WuLanChaBu
+辽宁###-LN|liaoning|liao ning
+吉林###-JL|jilin|ji lin
+黑龙江###MAINT-CHINANET-HL|MAINT-CNCGROUP-HL|MAINT-CHINANET-HLJ|heilongjiang|hei long jiang
+江苏###-JS|MAINT-CN-CMCC-JIANGSU|jiangsu|jiang su|nanjing|nan jing
+浙江###-CHINANET-ZJ|MAINT-CNCGROUP-ZJ|zhejiang|zhe jiang|hangzhou|hang zhou
+安徽###MAINT-CHINANET-AH|MAINT-CNCGROUP-AH|MAINT-CN-HF28|anhui|an hui
+福建###MAINT-CN-CMCC-FUJIAN|MAINT-CN-CNCFJ|MAINT-CHINANET-FJ|MAINT-CNCGROUP-FJ|MAINT-CN-FZ28|MAINT-CN-ND28|MAINT-CN-NP28|MAINT-CN-PT28|MAINT-CN-QZ28|MAINT-CN-SM28|MAINT-CN-SM28|MAINT-CN-XM28|MAINT-CN-ZM28|MAINT-CN-ZZ28|fujian|fu jian
+江西###MAINT-CNCGROUP-JX|MAINT-IP-WWF|jiangxi|jiang xi
+山东###MAINT-CHINANET-SD|MAINT-CHINATELECOM-SD|MAINT-CNCGROUP-SD|shandong|shan dong|jinan city|zibo city
+河南###MAINT-CN-CMCC-HENAN|MAINT-CHINANET-HA|MAINT-CNCGROUP-HA|henan|he nan
+湖北###MAINT-CHINANET-HB|MAINT-CN-CMCC-HUBEI|MAINT-CNCGROUP-HB|hubei|hu bei|wuhan
+湖南###MAINT-CHINANET-HN|MAINT-CHINANET-HN-CD|MAINT-CNCGROUP-HN|MAINT-CHINANET-HUNAN|hunan|hun an
+广东###MAINT-CHINANET-GD|MAINT-CN-CNCGD|MAINT-CN-GUANGDLT|MAINT-CNCGROUP-GD|MAINT-CN-CMCC-GUANGDONG|MAINT-CN-SY28|MAINT-CN-SZNET|guangdong|guang dong|guangzhou|shenzhen|shen zhen|jiang men|shunde city|dongwan city|fushan city|zhuhai city|
+广西###MAINT-CHINANET-GX|MAINT-CNCGROUP-GX|guangxi|guang xi
+海南###MAINT-CNCGROUP-HI|MAINT-CN-CHINANET-HI|hainan|hain an
+四川###MAINT-CNCGROUP-SC|MAINT-CN-CMCC-SICHUAN|sichuan|si chuan|chengdu|mianyang city
+贵州###MAINT-CHINANET-GZ|MAINT-CNCGROUP-GZ|guizhou|gui zhou
+云南###MAINT-CHINANET-YN|MAINT-CHINANET-YNMAINT-CHINANET|MAINT-CNCGROUP-YN|yunnan|yun nan
+西藏###xizang|xi zang
+陕西###-SHAANXI|MAINT-CHINANET-SHAANXI|MAINT-CN-SNXIAN|shannxi|Shaanxi|shanni|shan3xi
+甘肃###MAINT-CHINANET-GS|MAINT-CNCGROUP-GS|gansu|gan su
+青海###MAINT-CHINANET-QH|qinghai|qing hai
+宁夏###MAINT-CHINANET-NINGXIA|MAINT-CNCGROUP-NX|ningxia|ning xia
+新疆###MAINT-CN-CHINANET-XINJIANG|MAINT-CN-CHINANET-XJ|xinjiang|xin jiang
+台湾###taiwan|tai wan
+香港###xianggang|xiang gang|hongkong
+澳门###aomen|ao men

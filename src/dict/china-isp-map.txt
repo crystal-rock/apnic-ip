@@ -1,0 +1,20 @@
+中国电信###chinanet|CHINA TELECOM|CHINATELECOM|IRT-CHINANET-CN|IRT-CHINANET-
+中国联通###unicom|unicom|IRT-CU-CN|IRT-CU-CNIRT-CU-CN
+中国移动###cmcc|china mobile|Mobile Communications|IRT-CHINAMOBILE|IRT-CHINAMOBILE2-CN|IRT-CHINAMOBILE-CN
+中国铁通###cttnet|cttnet
+教育网###cernet|cernet|IRT-CERNET-AP|IRT-CNTCL-CN
+科技网###cstnet|cstnet
+有线通###colnet|colnet
+长城宽带###gwbn|gwbn
+方正宽带###founderbn|founderbn
+广电网###chinabtn|chinabtn
+天威宽带###topwaynet|topwaynet
+腾讯云###tencent|tencent
+阿里云###alibaba|taobao
+华为云###huawei|huawei
+百度云###baidu|baidu
+海信###Hisense|Hisense
+中联网盟###CNISP-Union|CNISP-Union
+阿比酷网络###aBitCool|aBitCool
+中国互联网络信息中心###China Internet Network Infomation|China Internet Network Infomation
+光华新网###Beijing Guanghuan Xinwang|Beijing Guanghuan Xinwang

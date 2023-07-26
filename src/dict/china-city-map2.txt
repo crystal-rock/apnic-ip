@@ -1,0 +1,34 @@
+'北京',|北京市|北京市北京市
+'天津',|天津市
+'上海',###shanghai|shang hai
+'重庆',###chongqing|chong qing
+'河北',###hebei|he bei
+'山西',###shan1xi
+'内蒙',古###neimenggu|nei meng gu|neimeng|nei meng|WuLanChaBu
+'辽宁',###liaoning|liao ning
+'吉林',###jilin|ji lin
+'黑龙',江###heilongjiang|hei long jiang
+'江苏',###jiangsu|jiang su|nanjing|nan jing
+'浙江',###zhejiang|zhe jiang|hangzhou|hang zhou
+'安徽',###anhui|an hui
+'福建',###fujian|fu jian
+'江西',###jiangxi|jiang xi
+'山东',###shandong|shan dong
+'河南',###henan|he nan
+'湖北',###hubei|hu bei
+'湖南',###hunan|hun an
+'广东',###guangdong|guang dong|shenzhen|shen zhen|jiang men
+'广西',###guangxi|guang xi
+'海南',###hainan|hain an
+'四川',###sichuan|si chuan
+'贵州',###guizhou|gui zhou
+'云南',###yunnan|yun nan
+'西藏',###xizang|xi zang
+'陕西',###shannxi|shanni|shan3xi
+'甘肃',###gansu|gan su
+'青海',###qinghai|qing hai
+'宁夏',###ningxia|ning xia
+'新疆',###xinjiang|xin jiang
+'台湾',###taiwan|tai wan
+'香港',###xianggang|xiang gang|hongkong
+'澳门',###aomen|ao men
